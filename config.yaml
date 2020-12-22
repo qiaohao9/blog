@@ -55,7 +55,7 @@ params:
     widgets:
         enabled:
             # - search
-            - archives
+            # - archives
             - tag-cloud
 
         archives:
@@ -68,7 +68,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: qMgzIx
 
             # Available values: summary, summary_large_image
             card: summary_large_image
