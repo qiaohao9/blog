@@ -2,6 +2,7 @@
 title: "买房，从此背负贷款"
 date: 2020-10-27T16:10:01+08:00
 description: "刚参加工作，父亲就迫不及待地让我买一套房子。"
+image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/mIRGrh.jpg?x-oss-process=style/webp"
 slug: buy-a-house
 tags: ["日常生活"]
 ---

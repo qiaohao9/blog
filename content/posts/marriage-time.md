@@ -1,6 +1,7 @@
 ---
 title: "或许，我踏入了相亲时代"
 description: "刚毕业，有人就介绍姑娘给我认识。"
+image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/ub7ol9.jpg?x-oss-process=style/webp"
 date: 2020-04-30T16:04:55+08:00
 draft: false
 slug: marriage-time

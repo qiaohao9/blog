@@ -1,6 +1,7 @@
 ---
 title: "余光中：怎样改进英式中文？"
 description: "论中文的常态与变态"
+image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/srIIBG.jpg?x-oss-process=style/webp"
 date: 2020-11-05T16:19:04+08:00
 slug: improve-british-chinese
 tags: ["写作技巧", "文章转载"]
