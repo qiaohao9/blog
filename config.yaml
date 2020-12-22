@@ -17,7 +17,7 @@ permalinks:
 
 params:
     mainSections:
-        - post
+        - posts
     featuredImageField: image
     rssFullContent: true
     favicon:
@@ -34,8 +34,8 @@ params:
         emoji: 🍥
         subtitle: wubba lubba dub dub.
         avatar:
-            local: true
-            src: img/avatar.png
+            local: false
+            src: https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/avatar.jpg?x-oss-process=style/webp
 
     article:
         math: false
@@ -44,7 +44,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
         utterances:
             repo:
@@ -54,7 +54,7 @@ params:
 
     widgets:
         enabled:
-            - search
+            # - search
             - archives
             - tag-cloud
 
