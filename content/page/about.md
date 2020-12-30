@@ -13,9 +13,9 @@ I'm tekzv，居于成都。
 
 ## 我的设备
 
-- iPhone 11 64G
+- iPhone 11
 - AirPods Pro
 - Kindle Paperwhite 4
-- iPad 2020 第八代
+- iPad Air 4
 - MacBook Pro 13inc 2017
 
