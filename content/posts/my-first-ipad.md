@@ -2,26 +2,30 @@
 title: "iPad 2020，买给 2021 的自己"
 date: 2020-12-27T17:46:54+08:00
 image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/jFAafA.jpg?x-oss-process=style/webp"
-tags: ["日常生活"]
+tags: ["日常生活", "数码设备"]
 draft: false
 ---
 
-这段时间，想阅读几本技术书籍，可都只提供 PDF 格式。目前，我有一个 Kindle，用来看 PDF 肯定是不合适的，也有一台 Macbook Pro，可携带不太方便，也不好做笔记。我想，我是不是该买一台 iPad 「用来学习」？
+> 最后，我还是换成了 64 GB 的 iPad Air 第四代。
 
-我浏览过许多文章和社区，都说「无论你当初买 Kindle 看书的意愿有多强，最后都会沦为泡面盖子；无论你当初买 iPad 学习的意愿有多强，最后都会沦为追剧神器。」我不知道这是必然，还是偶然。记得，我刚拿到 Kindle 的时候，所有的空闲时间都给了 Kindle。现在，一周使用 Kindle 的时间可能就两三个小时。我不知道，当获得 iPad 的新鲜劲过去之后，会不会就如同 Kindle 的命运一样。
+这段时间，不知怎么地，特别想买一台 iPad。买来做什么，我没有想好，用来看 PDF 算是一个吧。
 
-我不得不承认，在电子产品消费上，我是完全不理性的。当我没拥有它的时候，夜思梦想，总觉得它能带给我巨大的生产力，无论是当初的 Macbook Pro，Kindle 还是 iPhone。一旦拥有，新鲜劲一过，生产力什么的就抛之脑后，随之而来的只有灰尘。
+最近想看几本技术方面的书籍，除了纸质以外，只有 PDF 格式的。大家都知道，只要是教程类相关的书籍，个个都是大部头，如果购买纸质的话，不仅难以携带，价格更是感人——太贵。当然，Macbook Pro 能够轻松地阅读 PDF，Kindle 亦是如此。可它们，一个屏幕虽大但却不方便携带，一个方便携带却屏幕太小，且对 PDF 支持不太友好。
 
-最终，我还是购买了一台 iPad。促使我下定决心的，是那 Apple 官网支持的 24 期免息。我粗算，这四舍五入基本上就等于白嫖了）——每月还款竟然只需要一百多。
+对比市面上众多设备，也只有 iPad 契合随时阅读 PDF 文档，并且能够很方便做笔记的需求。我在数码设备上的消费是完全不理性的，只要有那么一点儿欲望，我都无法将它抑制下去。思来想去，我决定买下它，促使我下定决心的是 Apple 官网 24 无息分期——四舍五入下来，几乎等于白剽。
 
-![Apple Credit](https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/GtSR2i.png?x-oss-process=style/webp) 
+![Apple Credit](https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/GtSR2i.png?x-oss-process=style/webp)
 
-我对 iPad 的要求很低，只需要能够流畅的阅读 PDF 文档和简单的办公处理就够了。如果可以，我甚至不需要 Touch ID，视频渲染和那该死的摄像头。最后，我选择了 iPad 2020 第八代 32 GB。	
+此前，众多社区和文章都流传一句关于 iPad 的玩笑话「买前生产力，买后爱奇艺。」无论你当初如何规划 iPad 的生产力使用场景，到最后，iPad 都会沦为「追剧神器」。我不知道我的意志是否坚定，不过，从 Kindle 的使用历程上也能初见睥睨。刚拿到 Kindle 时，我所有的空闲时间都用它消磨；现在，每周阅读时间也不过短短四五个小时。
 
-![recipt](https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/hmBFMI.jpeg?x-oss-process=style/webp)
+或许，每个人都是这样。一旦最初拥有的新鲜劲过去，随之而来就只剩淡漠。
 
-为什么选择小容量的 32 GB 呢？首先，我是有一点数字洁癖的，我使用的所有数码设备，我都会定期做软件清理和内容清理，保证其干净有序；其次，我并不是特别喜欢拍照和看电影，所有的存储空间都留给资料文档；最后，当然是价格方面，32 GB 的是最低的。拿回家激活之后，32 GB 可用容量却只有 20 GB 不到。得益于 Apple 十五日退换货政策，有可能后面我会升级为 128 GB。128 GB 是 32 GB的四倍，却只贵五百块——这该死的 Apple 定价策略。
+我对 iPad 的硬件要求并不太高，它不必运行大型游戏不卡顿，编辑视频在多少时间内，它只需要能流程阅读 PDF，浏览网页以及流畅地打开笔记应用。综合比较，我最终选定「iPad 2020 32GB」 这一款。
 
-总之，iPad 是为了学习，为了提升自己而买的。岁末，即将迎来 2021 年，希望自己能在接下来的一年，利用 iPad 和 Kindle 充实自己的空闲时间。至少，不要让 iPad 沦为追剧神器，Kindle 沦为泡面盖子。
+![iPad Receipt](https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/hmBFMI.jpeg?x-oss-process=style/webp)
+
+32 GB 应该是足够我使用了。我自认为我有一点数字洁癖——所有的文档和应用都会井然有序。这么说吧，我曾经的主力机 iPhone 6S，尽管只有 16 GB 存储空间，但它的剩余使用量长时间维持在 10 GB 左右。
+
+总之，2020 年的不幸已经过去，即将迎来 2021 年。希望在接下来的一年，能够充分利用 iPad 提升自己，使其物超所值。
 
 ![New iPad 2020](https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/tGD7Zw.jpeg?x-oss-process=style/webp)
