@@ -2,6 +2,7 @@
 title: "iPad 2020，买给 2021 的自己"
 date: 2020-12-27T17:46:54+08:00
 image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/jFAafA.jpg?x-oss-process=style/webp"
+description: "这是我的第一台 iPad ，既是为了欲望，也是为了学习。"
 tags: ["日常生活", "数码设备"]
 draft: false
 ---
