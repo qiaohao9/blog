@@ -1,13 +1,13 @@
 ---
 title: "2020 年度终结"
 date: 2021-01-04T09:41:16+08:00
-image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/ZrvBvn.png?x-oss-process=style/webp"
-description: "2020 已经过去，2021 「牛」转乾坤"
+image: "https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/vRCTQL.jpg?x-oss-process=style/webp"
+description: "Farewell 2020"
 tags: ["年度总结"]
 draft: false
 ---
 
-一转眼，2020 年已经翻篇过去，今年发生了许多事情。
+一转眼，2020 年已经翻篇，今年发生了许多事情。
 
 ## 学业
 
