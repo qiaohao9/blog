@@ -19,3 +19,8 @@ I'm tekzv，居于成都。
 - iPad Air 4
 - MacBook Pro 13inc 2017
 
+## Wishlists
+
+- PlayStation
+- Synology
+
