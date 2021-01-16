@@ -35,7 +35,7 @@ params:
         subtitle: wubba lubba dub dub.
         avatar:
             local: false
-            src: https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/avatar.jpg?x-oss-process=style/webp
+            src: https://tekzv-blog.oss-cn-chengdu.aliyuncs.com/FNg5uK.jpeg?x-oss-process=style/webp
 
     article:
         math: false
